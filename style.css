@@ -11,12 +11,12 @@ body {
 }
 
 
-h3,
+h1,
 p {
     text-align: center;
 }
 
-h3 {
+h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.32em;
 }
